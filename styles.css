@@ -1,0 +1,148 @@
+body {
+    background-color: #f1f1f1;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333333;
+  }
+  
+  p {
+    color: #666666;
+    font-size: 16px;
+  }
+  
+  h1 {
+    color: #333333;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  h2 {
+    color: #555555;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  h3 {
+    color: #777777;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+ 
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table, th, td {
+    border: 1px solid #dddddd;
+  }
+  
+  th, td {
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f1f1f1;
+    font-weight: bold;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tr:hover {
+    background-color: #e2e2e2;
+  }
+   
+  a {
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  a:hover {
+    color: #0056b3; /* Link color on hover */
+    text-decoration: underline; /* Add underline on hover */
+  }
+  
+  a:visited {
+    color: #6600cc; /* Visited link color */
+  }
+  
+  a:active {
+    color: #ff6600; /* Active link color */
+  }
+  
+  
+  p {
+    color: #333333; /* Text color */
+    font-size: 16px; /* Font size */
+    line-height: 1.5; /* Line height */
+    margin-bottom: 10px; /* Bottom margin */
+  }
+  
+  ul, ol {
+    list-style: none; /* Remove default list styles */
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 5px; /* Bottom margin between list items */
+  }
+  
+  /* Example styles for unordered list */
+  ul {
+    /* Add custom bullet styles */
+  }
+  
+  /* Example styles for ordered list */
+  ol {
+    /* Add custom numbering styles */
+  }
+  form {
+    width: 300px; /* Set the width of the form */
+    margin: 0 auto; /* Center the form horizontally */
+  }
+  
+  label {
+    display: block; /* Display labels as block elements */
+    margin-bottom: 5px; /* Bottom margin between labels */
+    font-weight: bold; /* Make labels bold */
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%; /* Set the width of text fields and textarea to 100% */
+    padding: 8px; /* Add padding to text fields and textarea */
+    margin-bottom: 10px; /* Bottom margin between fields */
+    border: 1px solid #ccc; /* Add border to fields */
+    border-radius: 4px; /* Add border radius to fields */
+  }
+  
+  select {
+    width: 100%; /* Set the width of select fields to 100% */
+    padding: 8px; /* Add padding to select fields */
+    margin-bottom: 10px; /* Bottom margin between fields */
+    border: 1px solid #ccc; /* Add border to select fields */
+    border-radius: 4px; /* Add border radius to select fields */
+    background-color: #f1f1f1; /* Add background color to select fields */
+  }
+  
+  button {
+    padding: 8px 16px; /* Add padding to buttons */
+    background-color: #007bff; /* Set background color of buttons */
+    color: #ffffff; /* Set text color of buttons */
+    border: none; /* Remove button borders */
+    border-radius: 4px; /* Add border radius to buttons */
+    cursor: pointer; /* Change cursor style on hover */
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Button background color on hover */
+  }
+   
+  
